@@ -1,6 +1,6 @@
 # Computer-Vision-Assignment-2
 
-# 🖐️ Hand Gesture Recognition with SOTA Explainability
+ Hand Gesture Recognition with SOTA Explainability
  About the Project
 This repository contains the implementation for **Assignment 2** of the Computer Vision course. The project upgrades a baseline CNN for hand gesture recognition (classes: `peace`, `stop`, `thumbs_up`) by integrating State-of-the-Art (SOTA) computer vision components for explainability and robustness.
 Key Features
